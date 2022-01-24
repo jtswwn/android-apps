@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Absen Online</string>
-    <string name="halo_masuk_dengan_akun_anda">Halo Masuk Dengan Akun Anda</string>
+    <string name="halo_masuk_dengan_akun_anda">Halo, Masuk Dengan Akun Anda</string>
     <string name="password">password</string>
     <string name="email">email</string>
     <string name="login">login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="lupa_password">Lupa Password</string>
 </resources>
