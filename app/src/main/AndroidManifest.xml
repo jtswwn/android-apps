@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AbsenOnline">
         <activity
-            android:name=".views.forgotpass.ForgotPasswordActivity"
-            android:exported="false" />
-        <activity
             android:name=".views.login.LoginActivity"
             android:exported="true" />
         <activity
